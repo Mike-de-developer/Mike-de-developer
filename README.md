@@ -71,7 +71,7 @@ const mike: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mike-developer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mike-de-developer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-de-developer&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d" />
 </div>
 
@@ -93,8 +93,8 @@ const mike: Developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-de-developer&repo=METMMASITEV2&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/mike-de-developer/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-de-developer&repo=YOUR_REPO_2&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/mike-de-developer/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-de-developer&repo=METMMASITEV2&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/mike-de-developer/mikekamanga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-de-developer&repo=YOUR_REPO_2&theme=midnight-purple&hide_border=true&bg_color=0d0d0d)](https://github.com/mike-de-developer/METMMA-SITE-V2)
 
 </div>
 
