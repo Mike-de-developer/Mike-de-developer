@@ -13,7 +13,7 @@
 <!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-mikekamanga.vercel.app-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://mikekamanga.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mike-kamanga-9105012a7)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mikekamanga)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KamangaMik84006)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikeprosperkamanga@gmail.com)
 
 </div>
