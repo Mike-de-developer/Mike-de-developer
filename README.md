@@ -68,7 +68,7 @@ const mike: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mike-de-developer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d" />
@@ -79,17 +79,13 @@ const mike: Developer = {
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-de-developer&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mike-de-developer&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
+</div> -->
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -100,7 +96,7 @@ const mike: Developer = {
 
 ---
 
-## 🌊 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mike-de-developer&bg_color=0d0d0d&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true" />
@@ -110,7 +106,7 @@ const mike: Developer = {
 
 <div align="center">
 
-## 💬 A Word
+## A Word
 
 *"Great software is not built by coders — it's crafted by problem-solvers who care."*
 
