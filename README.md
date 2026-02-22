@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://mikekamanga.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+build+things+for+the+web+%F0%9F%9A%80;Turning+ideas+into+elegant+code+%E2%9C%A8;From+Malawi+%F0%9F%87%B2%F0%9F%87%BC+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+build+things+with+intent;Turning+ideas+into+elegant+code+%E2%9C%A8;From+Malawi+%F0%9F%87%B2%F0%9F%87%BC+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
